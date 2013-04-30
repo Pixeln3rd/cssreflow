@@ -962,6 +962,7 @@ ul.vid_list{
 	width: 25%;
 	float: left;
 	margin: 0px;
+	padding: 0px;
 }
 ul.vid_list li{
 	display: block;
