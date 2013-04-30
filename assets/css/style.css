@@ -233,7 +233,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 	text-align: center;
 	color: #FC0;
 }
-.credit a {
+.credit a, ul.vid_list a{
 	color: #FC0;
 	text-decoration: none;
 	border-bottom-width: 1px;
