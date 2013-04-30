@@ -957,6 +957,16 @@ a#lpib_map_link:visited {
 	margin: 0 auto 0 auto;
 
 }
+ul.vid_list{
+	display: block;
+	width: 25%;
+	float: left;
+	margin: 0px;
+}
+ul.vid_list li{
+	display: block;
+	padding: 2px;
+}
 /*Fancybox*/
 /*! fancyBox v2.0.5 fancyapps.com | fancyapps.com/fancybox/#license */
 .fancybox-tmp iframe, .fancybox-tmp object {
